@@ -61,26 +61,13 @@ Deux approches ont été utilisées pour résoudre le problème :
 - **Mutation** : Introduit des variations aléatoires pour éviter la stagnation dans des solutions locales.
 - **Réinitialisation partielle** : Utilisée pour réintroduire de la diversité dans la population lorsque la convergence est détectée.
 
-## 📂 Structure du Projet
-```
-├── data/
-│   └── sales_data_simplified.csv
-├── notebooks/
-│   └── Genetic_Algorithm_Optimization.ipynb
-├── scripts/
-│   └── genetic_algorithm.py
-├── README.md
-├── requirements.txt
-└── results/
-    ├── fitness_evolution.png
-    └── model_performance.png
-```
+
 
 ## 🚀 Instructions d'Installation
 1. **Cloner le projet :**
    ```bash
-   git clone https://github.com/votre-repo/genetic-sales-optimization.git
-   cd genetic-sales-optimization
+   git clone https://github.com/Mehdiii91/Genetic_Algo
+   cd Genetic_Algo
    ```
 
 2. **Installer les dépendances :**
@@ -90,13 +77,9 @@ Deux approches ont été utilisées pour résoudre le problème :
 
 3. **Exécuter le Jupyter Notebook pour l'analyse :**
    ```bash
-   jupyter notebook notebooks/Genetic_Algorithm_Optimization.ipynb
+   jupyter notebook notebooks/Algorithme_Genetique_Simplifie.ipynb
    ```
 
-4. **Exécuter le script de l'algorithme génétique :**
-   ```bash
-   python scripts/genetic_algorithm.py
-   ```
 
 ## 📋 Limitations et Améliorations Futures
 - **Surapprentissage** : Possibilité de surapprentissage si le modèle est sur-ajusté aux données.
@@ -108,4 +91,4 @@ Le projet montre comment un algorithme génétique peut être utilisé pour opti
 
 ---
 
-Pour toute question, veuillez contacter : **votre-email@example.com**
+Pour toute question, veuillez contacter : **mehdi.triaa2901@gmail.com**
