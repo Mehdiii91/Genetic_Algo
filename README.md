@@ -71,9 +71,6 @@ Deux approches ont été utilisées pour résoudre le problème :
    ```
 
 2. **Installer les dépendances :**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 3. **Exécuter le Jupyter Notebook pour l'analyse :**
    ```bash
